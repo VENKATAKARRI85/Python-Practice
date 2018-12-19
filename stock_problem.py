@@ -22,5 +22,4 @@ def solution1(prices):
 
     return profit
 
-print (solution1([7, 6, 4, 3, 1]))
-print (solution1([2, 1, 2, 0, 1]))
+
