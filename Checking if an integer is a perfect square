@@ -1,0 +1,5 @@
+def test(n):
+    if n < 1:
+        return False
+    else:
+        return n**0.5 == int(n**0.5)
